@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-DSADASDASDSA
+the flower starts to bloom once the animation starts
 
 ## How to test
 
-DASDASDSADASDASDAS
+it can be tested by playing the animation
 
 ## External hardware
 
